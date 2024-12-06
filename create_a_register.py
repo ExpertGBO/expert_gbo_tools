@@ -1,5 +1,6 @@
 import pandas as pd
 import psycopg2
+
 # Подключение к базе данных PostgreSQL
 def get_customer_name(document_number):
     try:
