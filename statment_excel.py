@@ -24,7 +24,7 @@ end_date = '2024-12-01'
 ppto = ""
 
 # Путь к шаблону и директории для сохранения файлов
-template_path = os.path.expanduser('~/Desktop/Акт сверки Шаблон.xlsx')
+template_path = os.path.expanduser('Акт сверки Шаблон.xlsx')
 output_dir = os.path.expanduser('~/Desktop/счета')
 
 # Создание директории для сохранения файлов, если она не существует
